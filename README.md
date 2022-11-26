@@ -29,7 +29,7 @@ Birdly is a mobile-first bird watcher web application which uses Artificial Inte
 
 - First clone the repo by copying the code below into your terminal
 
-        git clone https://github.com/yahya003/birdly
+        git clone https://github.com/MohamedYislam/birdly
 
 - Then add all the dependencies
 
